@@ -1,1 +1,2 @@
 pyTelegramBotAPI==3.7.9
+schedule==1.1.0
